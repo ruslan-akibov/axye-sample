@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["@babel/preset-env", { "targets": "defaults" }],
+    ["@babel/preset-react", { "runtime": "automatic" }],
+    ["@babel/preset-typescript", { "isTSX": true, "allExtensions": true }]
+  ],
+  "plugins": [
+    ["@babel/plugin-proposal-decorators", { "version": "2023-11" }],
+    
+    "axye/babel"
+  ]
+}
