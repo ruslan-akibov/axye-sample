@@ -37,7 +37,7 @@
     "webpack-dev-server": "^6.1.0"
   },
   "dependencies": {
-    "axye": "^0.0.2",
+    "axye": "^0.0.3",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   }
